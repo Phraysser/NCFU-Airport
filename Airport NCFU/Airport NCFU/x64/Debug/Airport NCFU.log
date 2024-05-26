@@ -1,0 +1,4 @@
+﻿  Airport NCFU.cpp
+C:\Users\phray\source\repos\Airport NCFU\Airport NCFU\Airport NCFU.cpp(20,10): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\phray\source\repos\Airport NCFU\Airport NCFU\Airport NCFU.cpp(65,44): warning C4804: <=: небезопасное использование типа "bool" в операции
+  Airport NCFU.vcxproj -> C:\Users\phray\source\repos\Airport NCFU\x64\Debug\Airport NCFU.exe
